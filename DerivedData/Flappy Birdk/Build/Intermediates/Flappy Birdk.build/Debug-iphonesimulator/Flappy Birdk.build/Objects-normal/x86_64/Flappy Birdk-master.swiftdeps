@@ -1,0 +1,7 @@
+version: "Apple Swift version 2.1.1 (swiftlang-700.1.101.15 clang-700.1.81)"
+options: "1c9c07f9fbe6e520c11f6c98d94e02f7"
+build_time: [508101107, 443775000]
+inputs:
+  "/Users/Hasaani/Desktop/iOS/Flappy Birdk/Flappy Birdk/GameScene.swift": [506298891, 0]
+  "/Users/Hasaani/Desktop/iOS/Flappy Birdk/Flappy Birdk/GameViewController.swift": [506122097, 0]
+  "/Users/Hasaani/Desktop/iOS/Flappy Birdk/Flappy Birdk/AppDelegate.swift": [506122097, 0]
